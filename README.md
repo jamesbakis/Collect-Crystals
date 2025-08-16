@@ -6,7 +6,7 @@ INSTRUCTIONS
 
 1. Run the program
 2. Input the game size and/or number of enemies
-3. Bring the Crystal Game pop up window to focus
+3. Bring the Crystal Game pop up window key listner to focus
 4. User arrow keys to move
 5. Collect crystals and avoid enemies!
 
